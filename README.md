@@ -13,7 +13,7 @@ Nexus is an economy, leveling, & utility bot that serves as an actual system rel
 - 🏷 Leveling
   - _Like any other bot, you are able to comfortably customize your leveling system for you and your members without being charged._
 - 🧭 Prefix
-  - You are able to change the bot's prefix to any your liking! This will cost you credits. (The first time of changing it is free!)
+  - _You are able to change the bot's prefix to any your liking! This will cost you credits. (The first time of changing it is free!)_
 
 ## Dev's apology & explanation
 Nexus, originally known as Pheonix, had to be taken down and moved to the new bot for several reasons. Some jerk (who probably never touched grass before) managed to hack and leak into sensitive information, tampering with it's api token and mixing up it's system creating unnecessary and impossible issues for both me and server members who were participating. 

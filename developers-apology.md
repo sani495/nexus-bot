@@ -1,4 +1,6 @@
-
+---
+icon: heart
+---
 
 # Developer's apology
 
@@ -20,4 +22,4 @@ Next year. It's not decided when, but I guarantee you. Be on the lookout for som
 
 ### Are you the only dev?
 
-Yep! I am coding my own bots. I'm not looking for a developer team.
+Yep! I am coding my own bots. I'm not looking for a developer team. However, you may be able to contribute to the documentations. Join the server to learn how!

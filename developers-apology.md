@@ -1,3 +1,7 @@
+---
+icon: heart
+---
+
 # Developer's apology
 
 ### Dev's apology & explanation

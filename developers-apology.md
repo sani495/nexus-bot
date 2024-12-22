@@ -1,6 +1,4 @@
----
-icon: heart
----
+
 
 # Developer's apology
 

@@ -1,6 +1,3 @@
-# Updates, Releases & Patches
-The updates, patches and releases will come here. Therefore, you can view what's really going in review of Nexus completely
-
 # About Nexus
 Nexus is an economy, leveling, & utility bot that serves as an actual system related to the physics of real world economy.
 

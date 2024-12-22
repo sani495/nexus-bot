@@ -1,7 +1,3 @@
----
-icon: '1'
----
-
 # Main Info
 
 Nexus is an economy, leveling, & utility bot that serves as an actual system related to the physics of real world economy.

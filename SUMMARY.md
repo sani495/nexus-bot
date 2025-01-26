@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Main Info](README.md)
+* [read me](README.md)
 * [Developer's apology](developers-apology.md)

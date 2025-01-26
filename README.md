@@ -1,20 +1,19 @@
 ---
 icon: angle-right
-noIndex: true
 layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
-    visible: true
-  pagination:
     visible: false
+  pagination:
+    visible: true
 ---
 
-# read me
+# 📑 read me
 
 ➜ Nexus is Discord bot designed to offer a unique blend of entertainment and educations. Whether you're looking for fun and engaging activities or seeking knowledge and insights, Nexus is your go-to resource.
 

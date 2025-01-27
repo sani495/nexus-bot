@@ -1,4 +1,16 @@
-
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
 
 # Developer's apology
 
@@ -16,7 +28,7 @@ You can still use the bot here in my [support server](https://discord.gg/YBS5Ayg
 
 ### When will the bot become public again?
 
-Next year. It's not decided when, but I guarantee you. Be on the lookout for some updates.
+This year. It's not decided when, but I guarantee you. Be on the lookout for some updates.
 
 ### Are you the only dev?
 

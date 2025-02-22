@@ -39,10 +39,11 @@ Brackets are being used to the simplify optional parts of the command.
 
 ## &#x20;.ᐟ  Shop Commands
 
-| commands              | usage                         | label                                     |
-| --------------------- | ----------------------------- | ----------------------------------------- |
-| shop , market , store | e?shop                        | View the items stored in the server shop! |
-| buy , purchase        | e?purchase {item name/number} | Buys an item from the shop                |
+| commands              | usage                           | label                                     |
+| --------------------- | ------------------------------- | ----------------------------------------- |
+| shop , market , store | e?shop                          | View the items stored in the server shop! |
+| buy , purchase        | e?purchase {item name/number}   | Buys an item from the shop                |
+| sell                  | e?sell {item/number} \[@member] | Sell your items/to a user                 |
 
 ## &#x20;.ᐟ  Ideas & Reports
 

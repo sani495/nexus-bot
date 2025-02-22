@@ -19,8 +19,6 @@ layout:
 More commands in new-coming updates! Stay tuned!
 {% endhint %}
 
-
-
 {% hint style="info" %}
 Brackets are being used to the simplify optional parts of the command.
 
@@ -29,13 +27,13 @@ Brackets are being used to the simplify optional parts of the command.
 
 ## &#x20;.ᐟ  Income Commands
 
-| commands      | usage                     | label                                                                 |
-| ------------- | ------------------------- | --------------------------------------------------------------------- |
-| work          | e?work                    | work smarter not hard                                                 |
-| daily         | e?daily                   | The commands that constantly pays you daily                           |
-| give          | e?give {amount} {@member} | <p>Wire-transfer a generous </p><p>offer to you co-workers</p>        |
-| balance , bal | e?balance \[@member]      | View your or others' balance accounts                                 |
-| bank          | e?bank                    | Allows you to create and exchange your credits to and from your bank! |
+| commands                | usage                     | label                                                                 |
+| ----------------------- | ------------------------- | --------------------------------------------------------------------- |
+| work                    | e?work                    | work smarter not hard                                                 |
+| daily, dtd, dly, recent | e?daily                   | The commands that constantly pays you daily                           |
+| give                    | e?give {amount} {@member} | <p>Wire-transfer a generous </p><p>offer to you co-workers</p>        |
+| balance , bal           | e?balance \[@member]      | View your or others' balance accounts                                 |
+| bank                    | e?bank                    | Allows you to create and exchange your credits to and from your bank! |
 
 ## &#x20;.ᐟ  Shop Commands
 

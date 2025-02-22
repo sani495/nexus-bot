@@ -15,8 +15,6 @@ layout:
 
 # How to get started
 
-<figure><img src="https://media.discordapp.net/attachments/1318642872785965147/1333190300339798017/Untitled127_20250126134100.png?ex=6797fdb9&#x26;is=6796ac39&#x26;hm=5c7b2a81dde526fa1924bb62fc0db0a0b5e5161a583927413689045125787b46&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1440&#x26;height=347" alt=""><figcaption></figcaption></figure>
-
 {% hint style="danger" %}
 DEV'S NOTE:  Please take notice that I am trying my best to make this bot enjoyable for all.. I am asking for your patience!&#x20;
 {% endhint %}

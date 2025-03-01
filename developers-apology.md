@@ -1,4 +1,5 @@
 ---
+icon: ellipsis-vertical
 layout:
   title:
     visible: true

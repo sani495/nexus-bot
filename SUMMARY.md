@@ -1,11 +1,21 @@
 # Table of contents
 
-* [📑 read me](README.md)
-* [How to get started](how-to-get-started.md)
+* [📑 About Nexus](README.md)
 * [command list](command-list.md)
 * [Developer's apology](developers-apology.md)
 
-## ⚙️ settings
+## 📌 Must Read
 
-* [economic modes](settings/economic-modes/README.md)
-  * [economy](settings/economic-modes/economy.md)
+* [How to get started](must-read/how-to-get-started.md)
+
+***
+
+* [FAQ](faq/README.md)
+  * [Credits U](faq/credits-u.md)
+  * [Debt](faq/debt.md)
+  * [Page](faq/page.md)
+
+## ⚙️ configuarations
+
+* [economic modes](configuarations/economic-modes/README.md)
+  * [economy](configuarations/economic-modes/economy.md)

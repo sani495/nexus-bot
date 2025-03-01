@@ -1,5 +1,5 @@
 ---
-icon: angle-right
+icon: ellipsis-vertical
 layout:
   title:
     visible: true

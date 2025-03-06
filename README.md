@@ -1,4 +1,4 @@
-# 📑 read me
+# 📑 About Nexus
 
 ➜ Nexus is Discord bot designed to offer a unique blend of entertainment and educations. Whether you're looking for fun and engaging activities or seeking knowledge and insights, Nexus is your go-to resource.
 
@@ -12,13 +12,15 @@ Nexus's economic features are split into three distinct categories:
 
 <details>
 
-<summary>Economic Categories</summary>
+<summary>📌 Important Information</summary>
+
+[how-to-get-started.md](must-read/how-to-get-started.md "mention")
+
+[faq](must-read/faq/ "mention")
 
 [command-list.md](command-list.md "mention")
 
-[developers-apology.md](developers-apology.md "mention")
-
-[broken-reference](broken-reference/ "mention")
+[https://discord.gg/YBS5AygwYT](https://discord.gg/YBS5AygwYT)
 
 </details>
 

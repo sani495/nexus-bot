@@ -1,9 +1,9 @@
 ---
+icon: period
 description: >-
   Each mode offers a range of benefits to keep members engaged and rewarded.
   Explore each category to uncover the various ways Nexus can enhance your
   experience and interaction within the community!
-icon: period
 ---
 
 # economic modes
@@ -25,9 +25,9 @@ o access these modules, use the command `e?set`&#x20;
 
 <details>
 
-<summary>Availible Modules</summary>
+<summary>Available Modules</summary>
 
-*
+
 
 </details>
 

@@ -29,4 +29,4 @@ Credits are powerful currency values that allow you to do certain things. Whethe
 
 ### How do I invite the bot?
 
-For right now, Nexus is only available for early access members in the support server. You can get the role as well! Go to [developers-apology.md](../../developers-apology.md "mention")for the support server.
+For right now, Nexus is only available for early access members in the support server. You can get the role as well! Go to [developers-apology.md](../../developers-apology.md "mention") for the support server.

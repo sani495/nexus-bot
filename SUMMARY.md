@@ -7,13 +7,10 @@
 ## 📌 Must Read
 
 * [How to get started](must-read/how-to-get-started.md)
-
-***
-
-* [FAQ](faq/README.md)
-  * [Credits U](faq/credits-u.md)
-  * [Debt](faq/debt.md)
-  * [Page](faq/page.md)
+* [FAQ](must-read/faq/README.md)
+  * [Credits Usage](must-read/faq/credits-usage.md)
+  * [Debt](must-read/faq/debt.md)
+  * [Page](must-read/faq/page.md)
 
 ## ⚙️ configuarations
 

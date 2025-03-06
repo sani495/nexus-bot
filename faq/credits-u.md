@@ -1,6 +1,0 @@
----
-icon: hyphen
----
-
-# Credits U
-

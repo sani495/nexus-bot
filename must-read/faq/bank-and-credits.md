@@ -23,9 +23,11 @@ Credit is an agreement between a lender and a borrower.&#x20;
 
 In economics, credit is the ability to buy something now and pay for it later. It's a transaction between a lender and a borrower, where the lender provides money, goods, or services in exchange for a future payment.&#x20;
 
-## How can I recieve them?
+## How can I receive them?
 
-Credits can be exchanged by using the command `bank` . In order to receive credits, you'll need to create a bank account and enter the credentials in the corresponding picture below.&#x20;
+Credits can be exchanged by using the command `bank`  and press "create a bank". In order to receive credits, you'll need to create a bank account and enter the credentials in the corresponding picture below.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-03-09 10.14.31 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Here's a list of how they work:
 

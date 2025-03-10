@@ -1,5 +1,5 @@
 ---
-icon: period
+icon: ellipsis-vertical
 description: >-
   Each mode offers a range of benefits to keep members engaged and rewarded.
   Explore each category to uncover the various ways Nexus can enhance your
@@ -14,20 +14,10 @@ description: >-
 
 These are the only modes available for configuring your economy within your server.
 
-## How can I enable these modes?
-
-o access these modules, use the command `e?set`&#x20;
-
-1. Select `Economy District`&#x20;
-2. Choose a Mode&#x20;
-
-## How many modules are there?
-
 <details>
 
 <summary>Available Modules</summary>
 
-
+[economy.md](economy.md "mention") (1)
 
 </details>
-

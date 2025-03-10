@@ -20,8 +20,6 @@ Nexus's economic features are split into three distinct categories:
 
 [command-list.md](command-list.md "mention")
 
-[https://discord.gg/YBS5AygwYT](https://discord.gg/YBS5AygwYT)
-
 </details>
 
 {% hint style="warning" %}

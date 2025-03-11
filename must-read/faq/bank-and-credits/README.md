@@ -29,17 +29,15 @@ In economics, credit is the ability to buy something now and pay for it later. I
 * Can be used to buy things like cars, houses, and college expenses&#x20;
 * Can be arranged directly between a buyer and seller, or through a financial institution like a bank
 
-## How can I receive them?
+## How can I make an Account?
 
 Credits can be exchanged by using the command `bank`  and press "create a bank". In order to receive credits, you'll need to create a bank account and enter the credentials in the corresponding picture below.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-03-09 10.14.31 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-03-09 10.14.31 PM.png" alt=""><figcaption></figcaption></figure>
 
 After you done that, press the "Activate" button to finish.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-03-09 10.28.11 PM.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-03-09 10.28.11 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## How can they be used?
 

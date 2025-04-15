@@ -33,4 +33,10 @@ This year. It's not decided when, but I guarantee you. Be on the lookout for som
 
 ### Are you the only developer?
 
-Yep! I am coding my own bots. I'm not looking for a developer team. However, you may be able to contribute to the documentations. Join the server to learn how!
+Here's our staff team!
+
+| Discord Username                  | Participant Role                  |
+| --------------------------------- | --------------------------------- |
+| @**twicedice5 /** @**blackdove2** | _**Head Developer**_              |
+| @**ard0niz**                      | _**Contributer / Dev Assistant**_ |
+| @**infinity.aura**                | _**Guild Moderator**_             |

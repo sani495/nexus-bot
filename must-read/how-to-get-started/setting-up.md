@@ -13,6 +13,9 @@ layout:
     visible: true
 ---
 
-# Districts
+# Setting Up!
 
-Districts are&#x20;
+## 🔓 Economy 1
+
+Setting up **Economy 1** is very easy. View the steps below.
+

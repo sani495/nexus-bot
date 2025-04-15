@@ -53,16 +53,16 @@ Can be used to change nicknames
 
 And unless you are the owner or have full admin permissions in the server, your staff will need the following missions above to configure settings, or they will recieve this message.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-27 11.36.34 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-27 11.36.34 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration
 
 Run the command `e?set` to get started. This command is only configuration tool to ALL modules.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-27 11.40.53 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-27 11.40.53 AM.png" alt=""><figcaption></figcaption></figure>
 
 Then select `Economy District` on the corresponding select menu
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-27 11.49.11 AM.png" alt=""><figcaption><p>This is what your district should look like</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-27 11.49.11 AM.png" alt=""><figcaption><p>This is what your district should look like</p></figcaption></figure>
 
 Select `Economy 1` and customize your modules within!

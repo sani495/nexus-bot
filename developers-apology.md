@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: ellipsis-vertical
 layout:
   title:

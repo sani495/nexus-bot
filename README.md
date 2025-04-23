@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📑 About Nexus
 
 ➜ Nexus is Discord bot designed to offer a unique blend of entertainment and educations. Whether you're looking for fun and engaging activities or seeking knowledge and insights, Nexus is your go-to resource.

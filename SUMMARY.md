@@ -12,5 +12,6 @@
   * [Bank & Credits](must-read/faq/bank-and-credits/README.md)
     * [How to receive credits?](must-read/faq/bank-and-credits/how-to-receive-credits.md)
   * [Debt](must-read/faq/debt.md)
+  * [Safety Mode](must-read/faq/safety-mode.md)
 
 ## ⚙️ configuarations

@@ -6,12 +6,11 @@
 
 ## 📌 Must Read
 
-* [How to get started](must-read/how-to-get-started/README.md)
-  * [Setting Up!](must-read/how-to-get-started/setting-up.md)
+* [How to get started](must-read/how-to-get-started.md)
+* [Safety Mode](must-read/safety-mode.md)
 * [FAQ](must-read/faq/README.md)
   * [Bank & Credits](must-read/faq/bank-and-credits/README.md)
     * [How to receive credits?](must-read/faq/bank-and-credits/how-to-receive-credits.md)
   * [Debt](must-read/faq/debt.md)
-  * [Safety Mode](must-read/faq/safety-mode.md)
 
 ## ⚙️ configuarations

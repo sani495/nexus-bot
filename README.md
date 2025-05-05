@@ -28,7 +28,7 @@ Nexus's economic features are split into three distinct categories:
 
 <summary>📌 Important Information</summary>
 
-[how-to-get-started](must-read/how-to-get-started/ "mention")
+[how-to-get-started.md](must-read/how-to-get-started.md "mention")
 
 [faq](must-read/faq/ "mention")
 
